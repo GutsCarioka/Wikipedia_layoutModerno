@@ -2,7 +2,7 @@
   Site desenvolvido Durante o estudo de Desenvolvimento Web 
 
 # Ferramentas Utilzadas    
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 # Imagens descritivas do Projeto 
   <img width="1896" height="886" alt="image" src="https://github.com/user-attachments/assets/66cedf4a-5acf-488d-af2b-e8c8cd89ce97" />
